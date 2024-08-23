@@ -144,7 +144,7 @@ export default {
 }
 
 body {
-    background-image: url('https://deliriumnerd.com/wp-content/uploads/2023/06/The-Eras-Tour-1000x678.jpeg.webp');
+    background-image: url('https://imgur.com/a/Ufne1fg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
