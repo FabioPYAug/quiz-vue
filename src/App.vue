@@ -144,12 +144,13 @@ export default {
 }
 
 body {
-    background-image: url('https://imgur.com/a/Ufne1fg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
 }
-
+div.app {
+  background-color: whitesmoke
+}
 .app {
     background: radial-gradient(circle, rgb(164, 114, 226) 9%, 
     hsla(267, 62%, 71%, 1) 50%, hsla(267,npm run build -- --clean 57%, 78%, 1) 99%);
@@ -166,7 +167,7 @@ body {
 }
 
 .app h1 {
-    font-family: Ralphie;
+    font-family: Poppins, sans-serif  ;
     font-size: 30px;
     color: #000000;
     font-weight: 600;
