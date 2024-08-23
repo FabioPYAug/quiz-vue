@@ -144,7 +144,7 @@ export default {
 }
 
 body {
-    background-image: url('@/assets/image/taylor-swift-era-2-1600x900(1).jpg');
+    background-image: url('https://deliriumnerd.com/wp-content/uploads/2023/06/The-Eras-Tour-1000x678.jpeg.webp');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -152,7 +152,7 @@ body {
 
 .app {
     background: radial-gradient(circle, rgb(164, 114, 226) 9%, 
-    hsla(267, 62%, 71%, 1) 50%, hsla(267, 57%, 78%, 1) 99%);
+    hsla(267, 62%, 71%, 1) 50%, hsla(267,npm run build -- --clean 57%, 78%, 1) 99%);
     --webkit-box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.35);
     -moz-box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.35);
     box-shadow: 10px 10px 10px 0px rgba(0,0,0,0.35);
